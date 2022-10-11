@@ -41,5 +41,6 @@
 ### Третий этап "Проведение интервью и аффинити-диаграмма"
 #### Задание:
 #### Результат работы:
-1. [Интервью](https://drive.google.com/drive/u/1/folders/1nsblmE2jGf7tfCHuurhWE0LdzKYOQmXQ)\
-2. [Аффинити-диаграмма](https://www.figma.com/file/KMb5EtA5LRnVYGd7ATAt7r/%D0%B0%D1%84%D1%84%D0%B8%D0%BD%D0%B8%D1%82%D0%B8?node-id=0%3A1) \
+1. [Эксплораторное исследование] (https://www.figma.com/file/jJX9Aogi5wdMTQKA9LsenM/%D0%AD%D0%BA%D1%81%D0%BF%D0%BB%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%BE%D0%B5-%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5?node-id=0%3A1)
+1. [Интервью](https://drive.google.com/drive/u/1/folders/1nsblmE2jGf7tfCHuurhWE0LdzKYOQmXQ)
+2. [Аффинити-диаграмма](https://www.figma.com/file/KMb5EtA5LRnVYGd7ATAt7r/%D0%B0%D1%84%D1%84%D0%B8%D0%BD%D0%B8%D1%82%D0%B8?node-id=0%3A1)
